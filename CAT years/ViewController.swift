@@ -14,7 +14,14 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-
+    @IBOutlet weak var catAge: UITextField!
+    @IBOutlet weak var message: UILabel!
+    
+    @IBAction func buttonPressed(sender: AnyObject) {
+        var age = catAge.text.toInt()! * 7
+        
+        message.text="Your cat is \(age) old";
+    }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.

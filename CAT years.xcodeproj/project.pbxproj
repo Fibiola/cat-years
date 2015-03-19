@@ -12,6 +12,7 @@
 		0E6B49C219C7AE2B00BBE793 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E6B49C019C7AE2B00BBE793 /* Main.storyboard */; };
 		0E6B49C419C7AE2B00BBE793 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E6B49C319C7AE2B00BBE793 /* Images.xcassets */; };
 		0E6B49D019C7AE2B00BBE793 /* CAT_yearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6B49CF19C7AE2B00BBE793 /* CAT_yearsTests.swift */; };
+		0E6B49DA19C7AFFD00BBE793 /* Black-cat-3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E6B49D919C7AFFD00BBE793 /* Black-cat-3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +35,7 @@
 		0E6B49C919C7AE2B00BBE793 /* CAT yearsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CAT yearsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E6B49CE19C7AE2B00BBE793 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0E6B49CF19C7AE2B00BBE793 /* CAT_yearsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CAT_yearsTests.swift; sourceTree = "<group>"; };
+		0E6B49D919C7AFFD00BBE793 /* Black-cat-3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Black-cat-3.jpg"; path = "../../../Desktop/Black-cat-3.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				0E6B49BC19C7AE2B00BBE793 /* AppDelegate.swift */,
 				0E6B49BE19C7AE2B00BBE793 /* ViewController.swift */,
 				0E6B49C019C7AE2B00BBE793 /* Main.storyboard */,
+				0E6B49D919C7AFFD00BBE793 /* Black-cat-3.jpg */,
 				0E6B49C319C7AE2B00BBE793 /* Images.xcassets */,
 				0E6B49BA19C7AE2B00BBE793 /* Supporting Files */,
 			);
@@ -190,6 +193,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0E6B49C219C7AE2B00BBE793 /* Main.storyboard in Resources */,
+				0E6B49DA19C7AFFD00BBE793 /* Black-cat-3.jpg in Resources */,
 				0E6B49C419C7AE2B00BBE793 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
